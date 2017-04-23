@@ -13,6 +13,12 @@ import javax.ws.rs.core.MediaType;
 
 import org.springframework.stereotype.Service;
 
+import com.cubic.entity.CustomerEntity;
+import com.cubic.test.GetCustomer;
+import com.cubic.test.GetCustomerById;
+import com.cubic.test.PostCustomer;
+import com.cubic.test.PutCustomer;
+
 
 @Service
 @Path("/helloworld")

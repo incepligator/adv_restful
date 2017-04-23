@@ -1,4 +1,4 @@
-package com.cubic.rest;
+package com.cubic.test;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
